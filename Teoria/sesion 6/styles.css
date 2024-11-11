@@ -1,0 +1,20 @@
+html,body{
+    background-color: brown;
+}
+
+#t{
+    border: yellow 10px solid;
+}
+
+.D{
+    border: plum 20px solid;
+}
+
+#datos li{
+    margin-top: 20px;
+}
+
+#datos{
+    border: green 5px solid;
+}
+
