@@ -1,20 +1,58 @@
 html,body{
     background-color: brown;
+    background-image: url(photo-1457369804613-52c61a468e7d.jpg);
+}
+main{
+    background-color: brown;
+    padding: 50px;
 }
 
 #t{
-    border: yellow 10px solid;
+    border: yellow 5px solid;
+    color: aliceblue;
+    padding: 10px;
 }
 
 .D{
-    border: plum 20px solid;
+    border: plum 10px solid;
+    color: aliceblue;
 }
 
 #datos li{
     margin-top: 20px;
+    color: blue;
 }
 
 #datos{
     border: green 5px solid;
 }
 
+#descripcion{
+    background-color: darkblue;
+    text-align: center;
+    color: aliceblue;
+    padding: 40px;
+}
+
+#descripcion h2{
+    color: salmon;
+    border: 0cap;
+
+}
+
+h2{
+    color: aliceblue;
+    border: palevioletred 10px solid;
+}
+
+#contenido{
+    border: green 7px solid;
+    color: blue;
+}
+#contenido li{
+    margin-top: 25px;
+}
+
+.wwwww{
+    color: aliceblue;
+}
