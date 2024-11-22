@@ -1,0 +1,49 @@
+body{
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    background-color:rgb(55, 55, 207);
+    color:aliceblue;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-weight: normal;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 40px 0;
+    margin-bottom: 50px;
+}
+
+.card{
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+    background-color: rgb(222, 226, 226);
+    padding: 10px;
+    border: green 10px solid;
+    border-radius: 10px;
+    box-shadow: -webkit-box-shadow: -3px -3px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px -3px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: -3px -3px 15px 0px rgba(0,0,0,0.75);;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+main{
+    text-align: center;
+    height: 70vh;
+}
+
+h1{
+    text-align: center;
+}

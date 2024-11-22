@@ -2,16 +2,19 @@ html,body{
     background-color: brown;
     background-image: url(photo-1457369804613-52c61a468e7d.jpg);
     padding: 70px;
+    
 }
 main{
     background-color: brown;
     padding: 50px;
+    border-radius: 20px;
 }
 
 #t{
     border: yellow 5px solid;
     color: aliceblue;
     padding: 10px;
+    font-family: Doto;
 }
 
 .D{
